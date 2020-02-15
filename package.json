@@ -1,7 +1,7 @@
 {
   "name": "lonero-cli",
   "description": "The CLI for the Decentralized Internet and LonScript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "The Lonero Foundation",
   "bin": {
     "lonero-cli": "./bin/run"

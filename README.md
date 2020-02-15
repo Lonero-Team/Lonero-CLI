@@ -21,7 +21,7 @@ $ npm install -g lonero-cli
 $ lonero-cli COMMAND
 running command...
 $ lonero-cli (-v|--version|version)
-lonero-cli/0.0.2 linux-x64 node-v12.4.0
+lonero-cli/0.0.3 linux-x64 node-v12.4.0
 $ lonero-cli --help [COMMAND]
 USAGE
   $ lonero-cli COMMAND
@@ -51,7 +51,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/Lonero-Team/lonero-cli/blob/v0.0.2/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/Lonero-Team/lonero-cli/blob/v0.0.3/src/commands/hello.ts)_
 
 ## `lonero-cli help [COMMAND]`
 
