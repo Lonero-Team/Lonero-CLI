@@ -1,7 +1,7 @@
 {
   "name": "lonero-cli",
   "description": "The CLI for the Decentralized Internet and LonScript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "The Lonero Foundation",
   "bin": {
     "lonero-cli": "./bin/run"
@@ -10,7 +10,10 @@
   "dependencies": {
     "@oclif/command": "^1.5.19",
     "@oclif/config": "^1.14.0",
+    "@oclif/parser": "^3.8.4",
     "@oclif/plugin-help": "^2.2.3",
+    "cli-flags": "^2.0.7",
+    "cli-ux": "^5.4.4",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
